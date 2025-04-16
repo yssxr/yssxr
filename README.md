@@ -61,11 +61,12 @@ I like systems that speak clearly, perform quietly, and feel intuitive.
   [→ View on GitHub](https://github.com/yssxr/pcbuilder)
 
 - **Lo-Fi Girl: Real-Time Reimagined**  
-  A 3D model I designed and rendered using Blender & Unreal Engine.  
-  [→ View the piece](https://github.com/yssxr/F20GA/blob/main/Render/Final%20Render.png)
+  A 3D model I designed and animated using Blender & Unreal Engine.  
+  [→ Watch on YouTube](https://youtube.com/video/B7Ix6EByhOQ)
 
 - **RAG System for Client Knowledge**  
   LangChain + Qdrant + FastAPI = responsive, context-aware search pipelines built for speed and scale.
+
 
 
 ---
