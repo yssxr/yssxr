@@ -48,14 +48,25 @@ I like systems that speak clearly, perform quietly, and feel intuitive.
   [→ Explore the repo](https://github.com/yssxr/AI_Music_generation)
 
 - **Voice Cloning Tool**  
-  Built with Redis + Coqui TTS, deployed on EC2. Near-human speech, real-time results.
+  Custom-built with Redis + Coqui TTS and deployed on EC2. Designed for natural, real-time speech generation.
+
+- **AI Ticket System**  
+  Automates support ticket responses using GPT-4 and Hugging Face sentiment analysis.  
+  Prioritizes and generates intelligent replies with minimal human input.  
+  [→ View on GitHub](https://github.com/yssxr/AI-Ticket-System)
+
+- **UAE PC Builder**  
+  Recommender tool that helps UAE-based users build custom PCs within budget.  
+  Scrapes from local used markets, checks benchmarks, and suggests real-world options.  
+  [→ View on GitHub](https://github.com/yssxr/pcbuilder)
 
 - **Lo-Fi Girl: Real-Time Reimagined**  
   A 3D model I designed and rendered using Blender & Unreal Engine.  
   [→ View the piece](https://github.com/yssxr/F20GA/blob/main/Render/Final%20Render.png)
 
 - **RAG System for Client Knowledge**  
-  LangChain + Qdrant + FastAPI = super responsive, context-aware search pipelines.
+  LangChain + Qdrant + FastAPI = responsive, context-aware search pipelines built for speed and scale.
+
 
 ---
 
