@@ -68,5 +68,5 @@ I like systems that speak clearly, perform quietly, and feel intuitive.
 ---
 
 <p align="center" style="color:#999">
-  clean structure · human logic · soft aesthetic
+  clean structure · human logic 
 </p>
